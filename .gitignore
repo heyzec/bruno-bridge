@@ -1,0 +1,9 @@
+# Flakes
+.direnv/
+
+# Python
+__pycache__/
+.venv/
+
+# Packaging artifacts
+dist/
